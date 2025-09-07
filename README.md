@@ -4,10 +4,10 @@
 ### 2. Krishna Kushwah
 ## Project Dashboard
 
-You can view the live project board here:
+## You can view the live project board here:
 
-[![Project Board](https://img.shields.io/badge/Project-Board-blue)](https://github.com/your-username/your-repo/projects/1)
+**[Project Dashboard](https://github.com/your-username/your-repo/projects/1)**
 
-refer this project board to track the progress.
+#### refer this project board to track the progress.
 
 ---
